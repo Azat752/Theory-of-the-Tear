@@ -1,7 +1,9 @@
 # Theory-of-the-Tear
 A theoretical model explaining black holes as tears in the fabric of reality.
 
-Author: Azat
+Author: Azat Mukhametzhanov
+
+Russia,Ulyanovsk
 
 Date: March 5, 2026
 
