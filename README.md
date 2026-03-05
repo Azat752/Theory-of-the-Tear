@@ -1,7 +1,8 @@
-Theory-of-the-Tear
+# Theory-of-the-Tear
 A theoretical model explaining black holes as tears in the fabric of reality.
 
 Author: Azat
+
 Date: March 5, 2026
 
 This is a conceptual hypothesis using analogies with the fabric of spacetime, with testable predictions for the future. I used a LLM to help structure and translate my original ideas, but all the core concepts are my own.
@@ -133,5 +134,6 @@ This is a direct illustration of the Theory of the Tear: the old world (Einstein
 Conclusion
 This theory provides an alternative view of black holes—not as massive objects with infinite density, but as tears in the fabric of reality. Instead of consuming everything that falls into them, black holes transmit information back into the universe during their healing process. It explains the information paradox, Hawking radiation, and dark matter in a way that traditional theories cannot.
 
-License
-This theory is licensed under the MIT License.
+## License
+
+This theory is licensed under the [MIT License](LICENSE).
