@@ -1,17 +1,27 @@
-"This is a conceptual hypothesis using analogies with the fabric of spacetime, with testable predictions for the future."
-I used a LLM to help structure and translate my original ideas, but all the core concepts are my own.
-
 Theory-of-the-Tear
 A theoretical model explaining black holes as tears in the fabric of reality.
 
+Author: Azat
+Date: March 5, 2026
+
+This is a conceptual hypothesis using analogies with the fabric of spacetime, with testable predictions for the future. I used a LLM to help structure and translate my original ideas, but all the core concepts are my own.
+
 Theory of the Tear: Why Black Holes Are Not What You Think, and How It Relates to Anime
 What is this text about?
-I am not a physicist or a mathematician. I am simply a seeker who once wondered: What if the official science is wrong about the most fundamental things? What if black holes are not "objects with infinite density," but something else entirely? I gathered my thoughts, added a bit of logic, and came up with a theory that explains everything physicists have been struggling with for decades: from the information paradox to dark matter. And yes, it also fits beautifully into the plot of Jujutsu Kaisen. If you’re ready to use your mind and cast aside authority—welcome.
+I am not a physicist or a mathematician. I am simply a seeker who once wondered: What if the official science is wrong about the most fundamental things? What if black holes are not "objects with infinite density," but something else entirely?
+
+I gathered my thoughts, added a bit of logic, and came up with a theory that explains everything physicists have been struggling with for decades: from the information paradox to dark matter. And yes, it also fits beautifully into the plot of Jujutsu Kaisen.
+
+If you’re ready to use your mind and cast aside authority—welcome.
 
 Introduction: What’s wrong with official science?
 Physicists will tell you that a black hole is a region of space where mass is compressed into a point with infinite density (a singularity), and around it lies the event horizon, beyond which nothing can escape. This is all described by Einstein’s equations, confirmed by gravitational waves and the Event Horizon Telescope’s images. Seems simple enough, right?
 
-But here’s the catch: Infinite density doesn’t actually appear in real physics. It's a mathematical shortcut, signaling that "our formulas break down here." Additionally, there's the information paradox: according to quantum mechanics, information about something falling into a black hole cannot disappear, but general relativity says it’s lost beyond the event horizon. Scientists have been coming up with wormholes, "islands" in Hawking radiation, extra dimensions—but all of this is complicated, unverifiable, and more like attempts to patch a gap in the theory than to understand the true nature of black holes.
+But here’s the catch: Infinite density doesn’t actually appear in real physics. It's a mathematical shortcut, signaling that "our formulas break down here."
+
+Additionally, there's the information paradox: according to quantum mechanics, information about something falling into a black hole cannot disappear, but general relativity says it’s lost beyond the event horizon.
+
+Scientists have been coming up with wormholes, "islands" in Hawking radiation, extra dimensions—but all of this is complicated, unverifiable, and more like attempts to patch a gap in the theory than to understand the true nature of black holes.
 
 But what if the black hole is not a "thing" at all, but a tear in the fabric of reality?
 
@@ -30,7 +40,9 @@ The event horizon is not the "surface" of a black hole. It’s the edge of the t
 Singularity doesn’t exist. Physicists invented it to describe something they didn’t understand. In reality, there’s just emptiness. Zero mass, zero volume, zero time.
 
 Part 3: The gravity of a black hole—“The Call of Nothingness”
-Why does everything get pulled towards the tear? Imagine a stretched rubber sheet. If you create a round hole in it, will the edges pull outwards? No, they will stretch the fabric around the hole. Any object on the sheet will start sliding towards the hole because there’s no support underneath it. This is not the attraction of mass—this is a fall into nothing. The void calls matter to fill it.
+Why does everything get pulled towards the tear? Imagine a stretched rubber sheet. If you create a round hole in it, will the edges pull outwards? No, they will stretch the fabric around the hole. Any object on the sheet will start sliding towards the hole because there’s no support underneath it.
+
+This is not the attraction of mass—this is a fall into nothing. The void calls matter to fill it.
 
 This is the effect we observe as the gravitational field of a black hole. To an external observer, it looks identical to the field of a massive object. But inside, there’s nothing.
 
@@ -51,54 +63,59 @@ At the edges of the tear, there are powerful quantum fluctuations. They "close" 
 What happens to the information about the matter that fell into the tear? It couldn’t just disappear—this would violate the law of conservation of information. So, when the tear heals, all the information that fell into it is ejected back in the form of radiation. Therefore, the black hole doesn’t store information, it transmits it back in the process of "healing." This is why information is never lost.
 
 Part 6: What does this theory explain that others don’t?
-6.1. The information paradox is solved
+6.1. The information paradox is solved:
 Information never truly falls in; it either scattered when the tear was created or it stays at the edges and returns later in radiation.
 
-6.2. No singularity
+6.2. No singularity:
 Instead of infinite density, there’s simply emptiness. Nature cannot tolerate infinities.
 
-6.3. Hawking radiation as a natural process
+6.3. Hawking radiation as a natural process:
 It’s not the birth of virtual particles at the event horizon, but the healing of the wound. The mechanism is simple, even for a layperson to understand.
 
-6.4. No “firewall”
+6.4. No “firewall”:
 Falling matter doesn’t encounter a wall—it just slides into nothing. The problem that’s been baffling physicists disappears.
 
-6.5. Gravitational waves from mergers
+6.5. Gravitational waves from mergers:
 When two tears collide, their edges move across the fabric, creating ripples—gravitational waves. To an external observer, the signal matches the predictions of General Relativity, but there should be subtle differences, which can be tested.
 
-6.6. Accretion disks
+6.6. Accretion disks:
 Matter doesn’t shine because it falls onto a surface; it glows due to friction and acceleration in the vortex of the stretched fabric. The disappearance beyond the event horizon happens silently.
 
-6.7. Dark matter and dark energy
+6.7. Dark matter and dark energy:
 The effects attributed to dark matter might be created by microscopic tears in the fabric (the foam of space), while dark energy could be the slow "healing" of larger voids that pushes galaxies apart.
 
-6.8. The birth of the universe
+6.8. The birth of the universe:
 The Big Bang—was it also a tear? Maybe our universe was born from Absolute Nothingness with the formula 0⁰ = 1. Void interacting with itself created the first quantum of being.
 
 Part 7: Testable Predictions of the Tear Theory
 Any good scientific theory must make predictions that can be tested. Here are the specific, measurable predictions of the Tear Theory that differ from General Relativity (GR).
 
 7.1. Additional Overtones in Gravitational Waves
+
 The Prediction: When two black holes merge, the final black hole "rings" like a bell. GR says the frequencies of this ring (called overtones) are determined only by the mass and spin of the final black hole. The Tear Theory predicts that because the event horizon is a physical edge, it will vibrate with extra frequencies that GR cannot explain.
 
 How to test it: Next-generation gravitational wave detectors (like the Einstein Telescope or LISA) will measure the ringdown signal with high precision. If we detect a frequency that doesn't match the GR prediction for that mass and spin, it would be evidence for a physical structure at the horizon.
 
 7.2. Anomalies in the "Ringdown" Phase
+
 The Prediction: Even if extra frequencies are too small to detect, the ratio of the amplitudes of the first two overtones should deviate from GR calculations by at least 5%.
 
 How to test it: Using the same detectors, scientists can perform "black hole spectroscopy"—breaking down the signal into its individual frequencies. If the amplitude ratios don't match GR, it means the horizon is not the smooth surface GR assumes.
 
 7.3. Modified Spectrum of Accretion Disks
+
 The Prediction: Matter falling into a tear emits its final photons just before crossing the edge. These photons experience a slightly different gravitational redshift compared to matter falling into a GR black hole. This creates a tiny but measurable shift in the X-ray spectrum of the accretion disk.
 
 How to test it: Future X-ray telescopes (like the advanced Athena observatory) can measure the spectrum of matter very close to the event horizon. If the last photons show a redshift pattern that doesn't match GR, it supports the Tear model.
 
 7.4. The "0⁰ = 1" Signature in Hawking Radiation
+
 The Prediction: If black holes are tears healing, and the formula 0⁰ = 1 describes the birth of "something from nothing," then the spectrum of Hawking radiation should have a subtle, uniform background component that corresponds to information being "ejected" from the healing edge.
 
 How to test it: This is the hardest prediction to test, as Hawking radiation from stellar black holes is too faint. However, if microscopic black holes are ever detected (or created in theory), their complete evaporation spectrum should show an information-rich pattern, not just thermal noise.
 
 7.5. No "Firewall" Paradox
+
 The Prediction: GR and quantum mechanics create the "firewall paradox"—a hypothetical wall of energy at the horizon. The Tear Theory predicts no firewall. Matter simply slides into nothing.
 
 How to test it: This is currently untestable directly, but if any future quantum gravity experiment suggests horizons must have firewalls, the Tear Theory would be ruled out. Conversely, if firewalls remain a paradox, the Tear Theory offers a clean solution.
