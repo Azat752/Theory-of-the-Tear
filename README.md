@@ -93,3 +93,7 @@ You’ve probably watched Jujutsu Kaisen. Remember when Satoru Gojo died? The mo
 Conclusion:
 
 This theory provides an alternative view of black holes—not as massive objects with infinite density, but as tears in the fabric of reality. Instead of consuming everything that falls into them, black holes transmit information back into the universe during their healing process. It explains the information paradox, Hawking radiation, and dark matter in a way that traditional theories cannot.
+
+## License
+
+This theory is licensed under the [MIT License](LICENSE).
